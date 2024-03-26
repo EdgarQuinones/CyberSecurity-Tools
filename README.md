@@ -5,5 +5,8 @@ The list below shows Cyber Security tools I am both learning, and have already l
 - I learned how to use PhishTool while learning on TryHackMe.
 - I have used to it anaylyze emails for suspiscious activity.
 ## CyberChef - Multi-tool Website
-- Had a variety of Cyber Security tools like encryption, analysis, compression, and more.
+- Has a variety of Cyber Security tools like encryption, analysis, compression, and more.
 - I have used to to solve mutliple problems in a timely manner.
+## URLscan.io - Link Scanner
+- Scans links to check if safe
+- Very useful in miltiple cases
